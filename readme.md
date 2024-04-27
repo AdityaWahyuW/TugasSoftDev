@@ -4,9 +4,7 @@
 
 ### Welcome to the Chall DOT API documentation!
 ### Made with ❤️ by BlackFlow.
-### Pattern: Controller-Service-Repository (CSR) Pattern
-
-TUGAS SOFTDEV <3
+### TUGAS SOFTDEV <3
 
 
 # Documentation
@@ -20,7 +18,7 @@ TUGAS SOFTDEV <3
 ```json
 {
     "email": "Morowudi2019@gmail.com",
-    "password": "12345678"
+    "password": "18062004"
 }
 ```
 
